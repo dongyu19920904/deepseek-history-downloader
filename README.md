@@ -1,6 +1,6 @@
 # Deepseek Chat Downloader
 
-一个简单的 Chrome 扩展，用于下载 Deepseek AI (chat.deepseek.com) 的对话历史记录。（只包含 AI回答）
+一个简单的 Chrome 扩展，用于下载 Deepseek AI (chat.deepseek.com) 的对话历史记录。（1 只包含 AI回答）
 
 ## 功能
 
